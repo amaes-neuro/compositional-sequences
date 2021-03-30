@@ -1,6 +1,6 @@
 # compositional-sequences
 
-The folders contain code used in the paper 'Learning compositional sequences with multiple time scales through a hierarchical network of spiking neurons', Amadeus Maes, Mauricio Barahona, Claudia Clopath.
+The folders contain code used in the paper 'Learning compositional sequences with multiple time scales through a hierarchical network of spiking neurons', A Maes, M Barahona and C Clopath (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008866).
 
 Uses Matlab.
 
